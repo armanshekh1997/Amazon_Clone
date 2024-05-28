@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    border: 2px solid black;
+}
+#container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    align-items: column;
+}
+#box1{
+    background-color: forestgreen;  
+    
+}
+#box2{
+    background-color: yellow;
+
+}
+#box3{
+    background-color: red;
+}
+#box4{
+    background-color: violet;
+}
+#box4{
+    background-color: gray;
+}
+#box5{
+    background-color: mediumblue;
+}
